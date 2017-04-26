@@ -1,0 +1,1 @@
+Build services sample - build .NET Core by convention (via submodule linking to https://github.com/MyGet/sample-netcore-byconvention.git)
